@@ -2,6 +2,8 @@
 
 I'm a passionate Computer Science student at **Universidad de La Laguna (ULL)**, eager to learn and explore the world of technology and programming.
 
+![Mis top lenguajes usados](https://github-readme-stats-tau-eight-76.vercel.app/api/top-langs/?username=Francisco-Gabriel-Ruiz-Ruiz&bg_color=10,000000,00A300&title_color=fff&text_color=fff&langs_count=10)
+
 ### 🚀 About Me:
 - 🎓 Currently pursuing my degree in **Computer Science** at **ULL (Universidad de La Laguna)**.
 - 💻 I’m learning and working on various programming languages and tech-related topics.
@@ -20,4 +22,4 @@ I'm a passionate Computer Science student at **Universidad de La Laguna (ULL)**,
 
 Feel free to connect with me and check out my work!
 
-![Mis top lenguajes usados](https://github-readme-stats-tau-eight-76.vercel.app/api/top-langs/?username=Francisco-Gabriel-Ruiz-Ruiz&bg_color=10,000000,00A300&title_color=fff&text_color=fff&langs_count=10)
+
