@@ -20,8 +20,7 @@ I'm a passionate Computer Science student at **Universidad de La Laguna (ULL)**,
 
 ### 🌟 Fun fact:
 - I love working on side projects and collaborating with others to solve real-world problems.
-- I'd love more programming tests that involved collaborating with others.
-
+- I'd love more programming tests that involve collaborating with others.
 
 Feel free to connect with me and check out my work!
 
