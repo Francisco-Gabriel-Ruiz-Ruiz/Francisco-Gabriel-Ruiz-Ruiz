@@ -10,7 +10,7 @@ I'm a passionate Computer Science student at **Universidad de La Laguna (ULL)**,
 
 ### 🧑‍💻 What I'm working on:
 - 🔍 Exploring algorithms, data structures, and software development.
-- 💡 Interested in software engineering.
+- 💡 Interested in many different aspects of computer science.
 - 🌱 Constantly improving my skills in **C++**, **Shell-scripting**, and other languages.
 
 
